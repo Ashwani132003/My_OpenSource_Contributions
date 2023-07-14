@@ -1,0 +1,4 @@
+date                       issue name                       pr link
+jul 7 2023                  einsum                          https://github.com/unifyai/ivy/pull/19292
+jul 13 2023                 quantile                        https://github.com/unifyai/ivy/pull/19334
+jul 13 2023                 dist                            https://github.com/unifyai/ivy/pull/19357
